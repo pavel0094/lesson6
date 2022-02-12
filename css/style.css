@@ -142,7 +142,7 @@
 .feedback {
    max-width: 1025px;
    margin: 0 auto;
-   
+
    /* background-color: aqua; */
 }
 
@@ -150,7 +150,6 @@
    /* background-color: azure; */
    text-align: left;
    width: 50%;
-   
 }
 .text-title {
    text-align: left;
@@ -181,6 +180,6 @@
    font-size: 18px;
 }
 
-.image-page2{
+.image-page2 {
    margin-top: 30px;
 }
